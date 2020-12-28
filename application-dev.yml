@@ -1,0 +1,9 @@
+cn:
+    springcloud:
+        book:
+            config: git configuration-dev
+
+
+
+
+
