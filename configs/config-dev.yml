@@ -1,9 +1,2 @@
-cn:
-    springcloud:
-        book:
-            config: git configuration-dev
-
-
-
-
-
+sc:
+    git configuration-test
