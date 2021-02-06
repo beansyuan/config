@@ -1,4 +1,4 @@
 sc:
   springcloud:
     book:
-      config: git configuration-test123
+      config: git configuration-test12
